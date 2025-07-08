@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/kikundi-dapp-root/static/js/main.e6ec8bcd.js",
+    "index.html": "/kikundi-dapp-root/index.html",
+    "main.e6ec8bcd.js.map": "/kikundi-dapp-root/static/js/main.e6ec8bcd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e6ec8bcd.js"
+  ]
+}
