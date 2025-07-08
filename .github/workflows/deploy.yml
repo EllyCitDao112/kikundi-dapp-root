@@ -19,7 +19,7 @@ jobs:
       - name: Set up Git user info
         run: |
           git config --global user.email "ellycit.international.dao.1.10@gmail.com"
-          git config --global user.name "https://github.com/EllyCitDao112"
+          git config --global user.name "EllyCitDao112"
 
       - run: npm run deploy
         env:
